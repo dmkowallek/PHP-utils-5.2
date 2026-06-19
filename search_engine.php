@@ -5,6 +5,12 @@
  * 
  * Returns 'true' if HTTP request appears to be from a well-known crawler
  * Else returns 'false'
+ * 
+ * @category   PHP utils (5.2)
+ * @package    n/a
+ * @author     D M Kowallek <git@kowallekfamily.com>
+ * @license    https://www.gnu.org/licenses/old-licenses/gpl-2.0.html GPLv2 License
+ * @version    1.0.0
  *
  * @param string $user_agent
  * 
